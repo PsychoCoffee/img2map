@@ -1,5 +1,5 @@
 @echo off
-color 02
+color 02 & :: Cool hacker effect!!
 set /p py_location=".py script full path: "
 set /p icon_location=".ico file full path: "
 
