@@ -27,7 +27,7 @@ There is no particular reason to use it. It might be very inefficient, I don't k
 I used a bit of my own coding knowledge, as well as StackOverFlow to finish this application.
 It took some time to finish, and I learned a lot creating it.
 
-#How can I use it?
+# How can I use it?
 Simple! Just run the program by either the python command line, python idle, or the executable you might find somewhere.
 Then, simply type in the number of the mode you want, and then drag or copy the file path to the image you wish to convert.
 Wait for the image to convert and that's it! Then, you can either pick to close the program or to continue working in it.
