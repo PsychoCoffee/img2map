@@ -11,6 +11,8 @@
  - Displacement maps (Adjustable intensity values)
  - Bump maps
  
+ (The end results may not be perfect and might be wrong!)
+ 
 Conversion of image file types
 
  1. PNG
