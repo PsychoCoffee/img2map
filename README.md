@@ -2,6 +2,7 @@
 ![](https://github.com/PsychoCoffee/img2map/blob/main/banner.png)
 # What is img2map.py?
  - A simple python script used for converting image textures to maps and converting image file types.
+ - Please ignore if some of the features don't work as well as they're supposed to, ***this is a deprecated project***.
  # What can it do?
  Conversion of images to texture maps:
  
