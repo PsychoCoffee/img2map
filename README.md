@@ -35,17 +35,10 @@ Simple! Just run the program by either the python command line, python idle, or 
 Then, simply type in the number of the mode you want, and then drag or copy the file path to the image you wish to convert.
 Wait for the image to convert and that's it! Then, you can either pick to close the program or to continue working in it.
 
-This program uses the CC BY-NC-ND 4.0 License, which means I don't want anyone using it in commercial uses.
+This program uses the CC0 License.
 
 
-By Luka Beg, 12th of April 2023 (c)
+By Luka Beg, 1st of April 2024 (c)
 
 # License
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
-
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+After longer consideration, I decided to make this project fully free and CC0. No attribution required. Thank you guys for using my product months after I stopped working on it!
